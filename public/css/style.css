@@ -32036,5 +32036,25 @@ img.away, img.busy, img.offline, img.online {
   border-right: 2px solid #1dbfc1;
   border-bottom: 2px solid #1dbfc1;
 }
+.ant-tooltip.ant-tooltip-placement-top {
+    display: none;
+}
 
+/* ========================= */
+.css-1s2u09g-control {
+  width: 240px !important;
+  cursor: default;
+  display: flex;
+  justify-content: space-between;
+  min-height: 38px;
+  outline: 0!important;
+  position: relative;
+}
+.ant-upload.ant-upload-select.ant-upload-select-text {
+  border: 1px solid black;
+  padding: 8px;
+  margin-bottom: 7px;
+  border-radius: 6px;
+  text-align: center;
+}
 
